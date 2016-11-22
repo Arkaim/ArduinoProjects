@@ -15,4 +15,3 @@ Set up the code into your Arduino.
 ## License
 
 This project is licensed under the KBTU License.
-=======
