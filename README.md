@@ -4,7 +4,9 @@
 Project for Digital Design (PROJECT #4 GARAGE DOOR SIMULATION)
 This is how it works like:
 
-![Animation](https://github.com/Arkaim/ArduinoProjects/blob/master/anim.gif?raw=true)
+![Animation](https://github.com/Arkaim/ArduinoProjects/blob/master/anim.gif?raw=true "This is how a garage door should work")
+
+![AnimationCar](https://github.com/Arkaim/ArduinoProjects/blob/master/car.gif?raw=true "This is how a garage door should work")
 
 The door also opens when the car is near.
 
