@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Digital Design Arduino Project
 
 Project for Digital Design (PROJECT #4 GARAGE DOOR SIMULATION)
@@ -16,5 +16,3 @@ Set up the code into your Arduino.
 
 This project is licensed under the KBTU License.
 =======
-# ArduinoProjects
->>>>>>> ArduinoProjects/master
