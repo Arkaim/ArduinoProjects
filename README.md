@@ -3,7 +3,7 @@
 Project for Digital Design (PROJECT #4 GARAGE DOOR SIMULATION)
 This is how it works like:
 
-![Animation](https://github.com/Arkaim/ArduinoProjects/anim.gif)
+![Animation]()
 
 The door also opens when the car is near.
 
